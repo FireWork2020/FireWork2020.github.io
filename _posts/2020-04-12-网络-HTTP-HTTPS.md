@@ -1,14 +1,14 @@
 ---
-layout:     post                    
-title:      HTTP                  # 标题 
-subtitle:   HTTP HTTPS               #副标题
-date:       2020-04-12              # 时间
-author:     FireWork2020                      # 作者
-header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
-    - 技术
----
+   layout:     post                    
+   title:      HTTP                  # 标题 
+   subtitle:   HTTP HTTPS               #副标题
+   date:       2020-04-12              # 时间
+   author:     FireWork2020                      # 作者
+   header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+   catalog: true                       # 是否归档
+   tags:                               #标签
+       - 技术
+   ---
 
 ##HTTP
 ###工作原理
